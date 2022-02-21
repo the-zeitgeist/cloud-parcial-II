@@ -1,0 +1,11 @@
+rootProject.name = 'cloud'
+
+include 'service-movie'
+include 'service-user'
+include 'service-showtime'
+include 'service-booking'
+include 'service-conf'
+include 'service-register'
+include 'library'
+include 'service-gateway'
+include 'service-admin'
